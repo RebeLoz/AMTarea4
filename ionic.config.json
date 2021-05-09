@@ -1,0 +1,7 @@
+{
+  "name": "Tarea4_RyM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
